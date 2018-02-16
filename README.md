@@ -1,5 +1,38 @@
 ## Welcome to GitHub Pages
 
+## NodeJS 
+
+- Instalar NPM
+- Instalar NodeJS
+- Instalar WebStorm (con correo de EAFIT) o ATOM
+- Instalar Postman
+- Descargar el proyecto y descomprimirlo
+
+Desde consola
+Ubicarse dentro del proyecto Ej: /Desarrollo/NodejsProjects/Examples/ExpressExample
+`npm start` 
+ 
+Desde el browser
+http://localhost:3000
+ 
+http://localhost:3000/users
+
+Desde Postman
+POST http://localhost:3000
+
+```
+{ "text":"Proyecto Integrador", "title":"Curso" }
+```
+
+Recibes un response
+```
+{ "success": true, "response": { "text": "Proyecto Integrador", "title": "Curso" } }
+```
+
+Vuelve a verificar el browser, veras el cambio 
+
+
+
 You can use the [editor on GitHub](https://github.com/alejocram/pi1-charlas_tecnicas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
