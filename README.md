@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Charlas Técnicas
 
 ## NodeJS 
 
@@ -43,6 +43,20 @@ El proyecto consume un servicio REST que retorna un JSON con bloques de la Unive
 
 En el siguiente link pueden encontrar un tutorial de Google para el desarrollo de Material Design en la aplicación.
 https://codelabs.developers.google.com/codelabs/material-design-style-sp/index.html#0
+
+## IONIC 2
+
+Charla de Julian Andres Gamez de IdeasLab
+https://youtu.be/Kbz_e-qgmCY
+
+Instalación de IONIC 2
+https://youtu.be/kBWmDmzjk8E
+
+Primera Aplicación en IONIC 2
+https://youtu.be/buSz-V39f1A
+
+Editar Aplicaciones de IONIC con Visual Studio Code
+https://youtu.be/J3zh5b9q1x4
 
 
 You can use the [editor on GitHub](https://github.com/alejocram/pi1-charlas_tecnicas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
