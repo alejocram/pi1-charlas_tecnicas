@@ -1,4 +1,9 @@
-## Charlas Técnicas
+# Charlas Técnicas
+
+## VisualStudio.com
+
+VisualStudio.com - Administración del proyecto
+[![VisualStudio.com - Administración del proyecto](https://img.youtube.com/vi/CYcJIDzInQ4/0.jpg)](https://www.youtube.com/watch?v=CYcJIDzInQ4)
 
 ## NodeJS 
 
@@ -51,12 +56,13 @@ Charla de Julian Andres Gamez de IdeasLab
 
 Instalación de IONIC 2
 [![Instalación de IONIC 2](https://img.youtube.com/vi/kBWmDmzjk8E/0.jpg)](https://www.youtube.com/watch?v=kBWmDmzjk8E)
-https://youtu.be/kBWmDmzjk8E
 
 Primera Aplicación en IONIC 2
+[![Primera Aplicación en IONIC 2](https://img.youtube.com/vi/buSz-V39f1A/0.jpg)](https://www.youtube.com/watch?v=buSz-V39f1A)
 https://youtu.be/buSz-V39f1A
 
 Editar Aplicaciones de IONIC con Visual Studio Code
+[![Editar Aplicaciones de IONIC con Visual Studio Code](https://img.youtube.com/vi/J3zh5b9q1x4/0.jpg)](https://www.youtube.com/watch?v=J3zh5b9q1x4)
 https://youtu.be/J3zh5b9q1x4
 
 
