@@ -31,6 +31,18 @@ Recibes un response
 
 Vuelve a verificar el browser, veras el cambio 
 
+## Android 
+
+- Instalar Java SDK
+- Instalar Android Studio
+- Descargar el [proyecto](https://github.com/alejocram/pi1-charlas_tecnicas/raw/master/42-ParkingMovil.zip) y descomprimirlo
+
+El proyecto de ejemplo implementa la libreria Volley para el consumo de WebServices y el patrón MVC, además también se implementa el patrón Singleton.
+
+El proyecto consume un servicio REST que retorna un JSON con bloques de la Universidad, luego se almacena en un arrayList y finalmente se pasa el array a un String.
+
+En el siguiente link pueden encontrar un tutorial de Google para el desarrollo de Material Design en la aplicación.
+https://codelabs.developers.google.com/codelabs/material-design-style-sp/index.html#0
 
 
 You can use the [editor on GitHub](https://github.com/alejocram/pi1-charlas_tecnicas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
