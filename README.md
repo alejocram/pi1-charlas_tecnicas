@@ -47,6 +47,7 @@ https://codelabs.developers.google.com/codelabs/material-design-style-sp/index.h
 ## IONIC 2
 
 Charla de Julian Andres Gamez de IdeasLab
+[![Charla de Julian Andres Gamez de IdeasLab](https://img.youtube.com/vi/Kbz_e-qgmCY/0.jpg)](https://www.youtube.com/watch?v=Kbz_e-qgmCY)
 https://youtu.be/Kbz_e-qgmCY
 
 Instalación de IONIC 2
