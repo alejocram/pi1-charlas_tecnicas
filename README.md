@@ -6,7 +6,7 @@
 - Instalar NodeJS
 - Instalar WebStorm (con correo de EAFIT) o ATOM
 - Instalar Postman
-- Descargar el [proyecto](https://github.com/alejocram/pi1-charlas_tecnicas/blob/master/41-ExpressExample.zip) y descomprimirlo
+- Descargar el [proyecto](https://github.com/alejocram/pi1-charlas_tecnicas/raw/master/41-ExpressExample.zip) y descomprimirlo
 
 Desde consola
 Ubicarse dentro del proyecto Ej: /Desarrollo/NodejsProjects/Examples/ExpressExample
