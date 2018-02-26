@@ -59,9 +59,12 @@ Instalación de IONIC 2
 
 Primera Aplicación en IONIC 2
 [![Primera Aplicación en IONIC 2](https://img.youtube.com/vi/buSz-V39f1A/0.jpg)](https://www.youtube.com/watch?v=buSz-V39f1A)
-https://youtu.be/buSz-V39f1A
 
 Editar Aplicaciones de IONIC con Visual Studio Code
 [![Editar Aplicaciones de IONIC con Visual Studio Code](https://img.youtube.com/vi/J3zh5b9q1x4/0.jpg)](https://www.youtube.com/watch?v=J3zh5b9q1x4)
-https://youtu.be/J3zh5b9q1x4
+
+Ionic Crash Course (2.x and above)
+[![Ionic Crash Course (2.x and above)](https://img.youtube.com/vi/O2WiI9QrS5s/0.jpg)](https://www.youtube.com/watch?v=O2WiI9QrS5s)
+
+[Get started with Ionic Framework](https://ionicframework.com/getting-started)
 
