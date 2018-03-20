@@ -68,3 +68,46 @@ Ionic Crash Course (2.x and above)
 
 [Get started with Ionic Framework](https://ionicframework.com/getting-started)
 
+## Spring 
+
+### Instalación
+-Instalar [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads)
+
+-Definir la variable de entorno JAVA_HOME
+ Debes obtener la ruta de instalación del JDK.
+ ```sh
+ C:\Program Files\Java\jdk1.6.0_10
+ ```
+
+ Once you have the JDK installation path:
+
+  1. Right-click the My Computer icon on your desktop and select Properties.
+  2. Click the Advanced tab, then click the Environment Variables button.
+  3. Under System Variables, click New.
+  4. Enter the variable name as JAVA_HOME.
+  5. Enter the variable value as the installation path for the Java Development Kit.
+  6. Click OK.
+  7. Click Apply Changes.
+ Note: You might need to restart Windows
+
+Spring Boot Tutorial - Hello World
+En este primer video, se presentan los pasos para realizar una aplicación básica con Spring Boot.
+[![Spring Boot Tutorial - Hello World](https://img.youtube.com/vi/mN_9sKco_DQ/0.jpg)](https://youtu.be/mN_9sKco_DQ)
+
+Spring Boot Tutorial - Build JAR with Maven
+Para realizar el despliegue sobre un servidor, se requiere empaquetar en el JAR todas las librerias.
+En el archivo `pom.xml` debes agregar kas siguientes lineas
+```sh
+<build>
+	<plugins>
+		<plugin>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-maven-plugin</artifactId>
+		</plugin>
+	</plugins>
+</build>
+```
+Y luego debes de compilar bajo el comando de maven `mvn package`.
+O lo puedes realizar desde el Spring Tools Suite, como se presenta en el siguiente video.
+[![Spring Boot Tutorial - Build JAR with Maven](https://img.youtube.com/vi/qDTUYkaXAEc/0.jpg)](https://youtu.be/qDTUYkaXAEc)
+
