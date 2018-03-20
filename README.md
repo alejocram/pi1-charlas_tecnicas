@@ -111,3 +111,8 @@ Y luego debes de compilar bajo el comando de maven `mvn package`.
 O lo puedes realizar desde el Spring Tools Suite, como se presenta en el siguiente video.
 [![Spring Boot Tutorial - Build JAR with Maven](https://img.youtube.com/vi/qDTUYkaXAEc/0.jpg)](https://youtu.be/qDTUYkaXAEc)
 
+### Crea un Azure Web App para usar con Java
+En el siguiente link encontraras los pasos para realizar la configuración del Azure Web App Java.
+También se indica las credenciales para subir los archivos `web.config` y `jar` por medio de una [cliente FTP](https://filezilla-project.org/download.php?type=client).
+[![Create an Azure web app for use with Java](https://github.com/Azure/azure-docs-sdk-java/raw/master/docs-ref-conceptual/spring-framework/media/deploy-spring-boot-java-web-app-on-azure/AZ01.png)](https://github.com/Azure/azure-docs-sdk-java/blob/master/docs-ref-conceptual/spring-framework/deploy-spring-boot-java-web-app-on-azure.md#create-an-azure-web-app-for-use-with-java)
+[Create an Azure web app for use with Java](https://github.com/Azure/azure-docs-sdk-java/blob/master/docs-ref-conceptual/spring-framework/deploy-spring-boot-java-web-app-on-azure.md#create-an-azure-web-app-for-use-with-java)
