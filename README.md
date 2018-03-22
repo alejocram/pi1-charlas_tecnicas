@@ -76,7 +76,7 @@ Ionic Crash Course (2.x and above)
 -Definir la variable de entorno JAVA_HOME
  Debes obtener la ruta de instalación del JDK.
  ```sh
- C:\Program Files\Java\jdk1.6.0_10
+ C:\Program Files\Java\jdk1.8.0_161
  ```
 
  Once you have the JDK installation path:
