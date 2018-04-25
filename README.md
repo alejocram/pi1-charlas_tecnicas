@@ -70,7 +70,7 @@ Ionic Crash Course (2.x and above)
 
 ## Spring 
 
-**Instalación**<\br> 
+**Instalación**<br> 
 -Instalar [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads)
 
 -Definir la variable de entorno JAVA_HOME
@@ -90,11 +90,11 @@ Ionic Crash Course (2.x and above)
   7. Click Apply Changes.
  Note: You might need to restart Windows.
 
-**Spring Boot Tutorial - Hello World**<\br>
+**Spring Boot Tutorial - Hello World**<br>
 En este primer video, se presentan los pasos para realizar una aplicación básica con Spring Boot.
 [![Spring Boot Tutorial - Hello World](https://img.youtube.com/vi/mN_9sKco_DQ/0.jpg)](https://youtu.be/mN_9sKco_DQ)
 
-**Spring Boot Tutorial - Build JAR with Maven**<\br>
+**Spring Boot Tutorial - Build JAR with Maven**<br>
 Para realizar el despliegue sobre un servidor, se requiere empaquetar en el JAR todas las librerias.
 En el archivo `pom.xml` debes agregar kas siguientes lineas.
 ```sh
@@ -111,7 +111,7 @@ Y luego debes de compilar bajo el comando de maven `mvn package`.
 O lo puedes realizar desde el Spring Tools Suite, como se presenta en el siguiente video.
 [![Spring Boot Tutorial - Build JAR with Maven](https://img.youtube.com/vi/qDTUYkaXAEc/0.jpg)](https://youtu.be/qDTUYkaXAEc)
 
-**Crea un Azure Web App para usar con Java**<\br>
+**Crea un Azure Web App para usar con Java**<br>
 En el siguiente link encontraras los pasos para realizar la configuración del Azure Web App Java.
 También se indica las credenciales para subir los archivos `web.config` y `jar` por medio de una [cliente FTP](https://filezilla-project.org/download.php?type=client).
 [![Create an Azure web app for use with Java](https://github.com/Azure/azure-docs-sdk-java/raw/master/docs-ref-conceptual/spring-framework/media/deploy-spring-boot-java-web-app-on-azure/AZ01.png)](https://github.com/Azure/azure-docs-sdk-java/blob/master/docs-ref-conceptual/spring-framework/deploy-spring-boot-java-web-app-on-azure.md#create-an-azure-web-app-for-use-with-java).
@@ -119,12 +119,12 @@ También se indica las credenciales para subir los archivos `web.config` y `jar`
 
 ## ASP.NET
 
-**Instalación**<\br> 
-En el siguiente link encontraras los pasos para realizar la instalación del .Net Core y Visual Studio para cualquier sistema operativo, [Install Visual Studio and .NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=aspnetcore2x&view=aspnetcore-2.1#install-visual-studio-and-net-core "Install Visual Studio and .NET Core").<\br> 
+**Instalación**<br> 
+En el siguiente link encontraras los pasos para realizar la instalación del .Net Core y Visual Studio para cualquier sistema operativo, [Install Visual Studio and .NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=aspnetcore2x&view=aspnetcore-2.1#install-visual-studio-and-net-core "Install Visual Studio and .NET Core").<br> 
 -Instalar [Visual Studio Community](https://www.visualstudio.com/es/downloads/).
 -En la instalación recuerda agregar el modulo de ASP.NET y desarrollo web.
 
-**Crear una API web con ASP.NET Core y Visual Studio**<\br> 
+**Crear una API web con ASP.NET Core y Visual Studio**<br> 
 ![Diseño básico de la aplicación TODO](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/architecture.png "Diseño básico de la aplicación TODO")
 
 En el siguiente tutorial se crea la API para administrar una lista de tareas pendientes.
@@ -133,7 +133,7 @@ En el siguiente tutorial se crea la API para administrar una lista de tareas pen
 Se recomienda descargar [Postman](https://www.getpostman.com/) para realizar las pruebas de los WebServices.
 ![](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/pmc.png "Postman")
 
-**Publicar en Azure**<\br> 
+**Publicar en Azure**<br> 
 A continuación se indica los pasos para realizar la publicación del proyecto desde Visual Studio.
 Si el proyecto no tiene Base de datos, omite estos pasos en el tutorial.
 [Deploy the app to Azure](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-2.1#deploy-the-app-to-azure).
