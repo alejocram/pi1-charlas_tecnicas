@@ -121,9 +121,18 @@ También se indica las credenciales para subir los archivos `web.config` y `jar`
 
 ### Instalación
 En el siguiente link encontraras los pasos para realizar la instalación del .Net Core y Visual Studio para cualquier sistema operativo, [Install Visual Studio and .NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=aspnetcore2x&view=aspnetcore-2.1#install-visual-studio-and-net-core "Install Visual Studio and .NET Core")
+
 -Instalar [Visual Studio Community](https://www.visualstudio.com/es/downloads/)
 -En la instalación recuerda agregar el modulo de ASP.NET y desarrollo web
 
+### Crear una API web con ASP.NET Core y Visual Studio
+![Diseño básico de la aplicación TODO](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/architecture.png "Diseño básico de la aplicación TODO")
+
+En el siguiente tutorial se crea la API para administrar una lista de tareas pendientes.
+[Crear una API web con ASP.NET Core y Visual Studio](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api)
+
+Se recomienda descargar [Postman](https://www.getpostman.com/) para realizar las pruebas de los WebServices
+(https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/pmc.png)
 
 
 
