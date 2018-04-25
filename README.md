@@ -135,6 +135,10 @@ En el siguiente tutorial se crea la API para administrar una lista de tareas pen
 Se recomienda descargar [Postman](https://www.getpostman.com/) para realizar las pruebas de los WebServices
 ![](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/pmc.png "Postman")
 
-
+### Publicar en Azure
+A continuación se indica los pasos para realizar la publicación del proyecto desde Visual Studio.
+Si el proyecto no tiene Base de datos, omite estos pasos en el tutorial.
+[Deploy the app to Azure](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-2.1#deploy-the-app-to-azure)
+![](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs/_static/pub.png?view=aspnetcore-2.1)
 
 
