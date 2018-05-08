@@ -2,7 +2,7 @@
 
 ## VisualStudio.com
 
-VisualStudio.com - Administración del proyecto
+VisualStudio.com - Administración del proyecto.<br>
 [![VisualStudio.com - Administración del proyecto](https://img.youtube.com/vi/CYcJIDzInQ4/0.jpg)](https://www.youtube.com/watch?v=CYcJIDzInQ4)
 
 **Agregar un administrador al proyecto**<br>
