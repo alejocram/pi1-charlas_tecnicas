@@ -5,6 +5,14 @@
 VisualStudio.com - Administración del proyecto
 [![VisualStudio.com - Administración del proyecto](https://img.youtube.com/vi/CYcJIDzInQ4/0.jpg)](https://www.youtube.com/watch?v=CYcJIDzInQ4)
 
+**Agregar un administrador al proyecto**<br>
+![Agregar administrador al proyecto]((https://raw.githubusercontent.com/alejocram/pi1-charlas_tecnicas/master/Add_Admin_to_VS.jpg "Agregar administrador al proyecto")
+1. Ingresa al proyecto en VisualStudio.com.
+2. Selecciona Configurar y luego Seguridad.
+3. Selecciona el grupo Project Administrators.
+4. Selecciona Members.
+5. Y agrega uno nuevo, colocando el correro del integrante del proyecto que deseas que también sea administrador del proyecto.
+
 ## NodeJS 
 
 - Instalar NPM
