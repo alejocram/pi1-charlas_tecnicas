@@ -125,6 +125,10 @@ También se indica las credenciales para subir los archivos `web.config` y `jar`
 [![Create an Azure web app for use with Java](https://github.com/Azure/azure-docs-sdk-java/raw/master/docs-ref-conceptual/spring-framework/media/deploy-spring-boot-java-web-app-on-azure/AZ01.png)](https://github.com/Azure/azure-docs-sdk-java/blob/master/docs-ref-conceptual/spring-framework/deploy-spring-boot-java-web-app-on-azure.md#create-an-azure-web-app-for-use-with-java).
 [Create an Azure web app for use with Java](https://github.com/Azure/azure-docs-sdk-java/blob/master/docs-ref-conceptual/spring-framework/deploy-spring-boot-java-web-app-on-azure.md#create-an-azure-web-app-for-use-with-java).
 
+## Ruby OnRails
+
+[![Ruby OnRails](https://img.youtube.com/vi/BAVuEhWLt3w/0.jpg)](https://youtu.be/BAVuEhWLt3w)
+
 ## ASP.NET
 
 **Instalación**<br> 
