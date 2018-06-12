@@ -57,6 +57,9 @@ El proyecto consume un servicio REST que retorna un JSON con bloques de la Unive
 En el siguiente link pueden encontrar un tutorial de Google para el desarrollo de Material Design en la aplicación.
 https://codelabs.developers.google.com/codelabs/material-design-style-sp/index.html#0
 
+**Android tutoriales**<br>
+[Android Development Tutorials](https://www.raywenderlich.com/category/android)
+
 ## IONIC 2
 
 Charla de Julian Andres Gamez de IdeasLab
