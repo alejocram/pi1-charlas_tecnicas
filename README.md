@@ -105,9 +105,21 @@ Ionic Crash Course (2.x and above)
 En este primer video, se presentan los pasos para realizar una aplicación básica con Spring Boot.
 [![Spring Boot Tutorial - Hello World](https://img.youtube.com/vi/mN_9sKco_DQ/0.jpg)](https://youtu.be/mN_9sKco_DQ)
 
+**Build JAR with Gradle**<br>
+Para realizar el despliegue sobre un servidor, se requiere empaquetar en el JAR todas las librerias.
+En el archivo `build.gradle` debes agregar las siguientes lineas.
+```sh
+bootJar {
+    baseName = 'gs-rest-service'
+    version =  '0.1.0'
+}
+```
+Y luego debes de compilar
+
+
 **Spring Boot Tutorial - Build JAR with Maven**<br>
 Para realizar el despliegue sobre un servidor, se requiere empaquetar en el JAR todas las librerias.
-En el archivo `pom.xml` debes agregar kas siguientes lineas.
+En el archivo `pom.xml` debes agregar las siguientes lineas.
 ```sh
 <build>
 	<plugins>
