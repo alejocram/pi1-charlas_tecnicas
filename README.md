@@ -107,11 +107,10 @@ Y dentro de la carpeta encontrarás el ejecutable
 ..\sts-bundle\sts-3.9.2.RELEASE
 Puedes crear un acceso directo en el Escritorio. 
 
-**Soporte a proyectos con Gradle**
-
-Dirígete al Eclipse Marketplace, busca por Buildship Gradle. 
-Instala el Buildship Gradle Integration. 
-Help > Eclipse Marketplace. 
+**Soporte a proyectos con Gradle**<br>
+Dirígete al Eclipse Marketplace, busca por Buildship Gradle. <br>
+Instala el Buildship Gradle Integration. <br>
+Help > Eclipse Marketplace. <br>
 ![Buildship gradle](https://raw.githubusercontent.com/alejocram/pi1-charlas_tecnicas/master/Items.png "Gradle")
 
 **Spring Boot Tutorial - Hello World**<br>
