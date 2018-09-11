@@ -101,6 +101,18 @@ Ionic Crash Course (2.x and above)
   7. Click Apply Changes.
  Note: You might need to restart Windows.
 
+Descarga Spring Tool Studio y descomprime.
+https://spring.io/tools/sts/all
+Y dentro de la carpeta encontrarás el ejecutable
+..\sts-bundle\sts-3.9.2.RELEASE
+Puedes crear un acceso directo en el Escritorio. 
+
+**Soporte a proyectos con Gradle**
+Dirígete al Eclipse Marketplace, busca por Buildship Gradle.
+Instala el Buildship Gradle Integration. 
+Help > Eclipse Marketplace
+
+
 **Spring Boot Tutorial - Hello World**<br>
 En este primer video, se presentan los pasos para realizar una aplicación básica con Spring Boot.
 [![Spring Boot Tutorial - Hello World](https://img.youtube.com/vi/mN_9sKco_DQ/0.jpg)](https://youtu.be/mN_9sKco_DQ)
