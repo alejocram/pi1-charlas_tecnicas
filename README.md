@@ -108,9 +108,10 @@ Y dentro de la carpeta encontrarás el ejecutable
 Puedes crear un acceso directo en el Escritorio. 
 
 **Soporte a proyectos con Gradle**
-Dirígete al Eclipse Marketplace, busca por Buildship Gradle.
+
+Dirígete al Eclipse Marketplace, busca por Buildship Gradle. 
 Instala el Buildship Gradle Integration. 
-Help > Eclipse Marketplace.
+Help > Eclipse Marketplace. 
 ![Buildship gradle](https://raw.githubusercontent.com/alejocram/pi1-charlas_tecnicas/master/Items.png "Gradle")
 
 **Spring Boot Tutorial - Hello World**<br>
