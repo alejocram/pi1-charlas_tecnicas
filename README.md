@@ -111,7 +111,7 @@ Puedes crear un acceso directo en el Escritorio.
 Dirígete al Eclipse Marketplace, busca por Buildship Gradle.
 Instala el Buildship Gradle Integration. 
 Help > Eclipse Marketplace
-
+![Buildship gradle](https://raw.githubusercontent.com/alejocram/pi1-charlas_tecnicas/master/items.png)
 
 **Spring Boot Tutorial - Hello World**<br>
 En este primer video, se presentan los pasos para realizar una aplicación básica con Spring Boot.
