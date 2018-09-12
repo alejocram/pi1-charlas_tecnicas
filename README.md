@@ -51,6 +51,9 @@ Vuelve a verificar el browser, veras el cambio
 _**Express tutorial**_
 En el siguiente link [_MDN express tutorial_](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) encontras un tutorial muy completo creado por la comunidad de MDN para aprender a usar el framework [_express js_](https://expressjs.com/).
 
+## Django (python)
+En el siguiente link [MDN Django tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) encontrars un tutorial muy completo creado por la comunidad de MDN para aprender a usar el framework [Django framework](https://www.djangoproject.com/).
+
 ## Android 
 
 - Instalar Java SDK
