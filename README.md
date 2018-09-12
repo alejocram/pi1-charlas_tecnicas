@@ -13,6 +13,10 @@ VisualStudio.com - Administración del proyecto.<br>
 4. Selecciona Members.
 5. Y agrega uno nuevo, colocando el correro del integrante del proyecto que deseas que también sea administrador del proyecto.
 
+## HTML, CSS & JS
+En el siguiente link [_MDN html tutotial_](https://developer.mozilla.org/en-US/docs/Learn/HTML) encontras una guia muy completa para aprender sobre HTML, CSS y javascript. 
+Una guia un poco mas completa sobre javascript, css y sus diferentes tecnologias web se puede encontrar en [_The Odin Project Javascript_](https://www.theodinproject.com/courses/javascript) y [The Odin Project CSS](https://www.theodinproject.com/courses/html5-and-css3). 
+
 ## NodeJS 
 
 - Instalar NPM
