@@ -166,6 +166,9 @@ También se indica las credenciales para subir los archivos `web.config` y `jar`
 
 [![Ruby OnRails](https://img.youtube.com/vi/BAVuEhWLt3w/0.jpg)](https://youtu.be/BAVuEhWLt3w)
 
+_**Tutorial de Ruby on Rails**_ 
+[The Odin Project Rails Tutorial](https://www.theodinproject.com/courses/ruby-on-rails) 
+
 ## ASP.NET
 
 **Instalación**<br> 
